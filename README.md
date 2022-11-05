@@ -2,7 +2,7 @@
 ## Track: Energy revolution, now. 
 ### Challenge created by: Aalto University
 - Link to the track -> https://www.junction2022.com/challenges-new/aalto-university
-- Author @KenyiLarcher
+- Author [Kenyi Larcher](https://github.com/kenyilarcher)
 
 # To start the app
 ### `npm start`
